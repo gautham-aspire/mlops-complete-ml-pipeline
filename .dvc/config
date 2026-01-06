@@ -1,3 +1,7 @@
 [cache]
     type = copy
     dir = C:\Users\ggiris544\.dvc\cache
+[core]
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://gautham-dvc-s3-mlops-project
